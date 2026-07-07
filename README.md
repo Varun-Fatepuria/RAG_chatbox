@@ -101,3 +101,5 @@ Locate the sidebar pane and drop your sample target PDF files into the file syst
 Click "Submit & Process" to invoke the text-extraction thread, calculate local structural vectors, and instantiate the FAISS memory index.
 
 Once processing finishes, enter any natural language question inside the main chat input field to see response streaming.
+
+DEPLOYED WEBSITE => https://ragchatbox-5yjdfuefghsei3wycjtlfm.streamlit.app/
